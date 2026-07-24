@@ -2,7 +2,7 @@
 <a href="https://www.tigerdata.com">
   <img
     alt="Tiger Data logo"
-    src="https://github.com/namanvirk18/tiger-cli/raw/main/docs/tiger-logo.png"
+    src="https://github.com/namanvirk18/tiger-cli/blob/main/docs/tiger-logo.png?raw=true"
     width="200"
   >
 </a>
