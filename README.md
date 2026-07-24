@@ -1,10 +1,8 @@
 <div align=center>
 <picture align=center>
-    <source  srcset="https://assets.timescale.com/timescale-web/brand/show/horizontal-black.svg">
+    <source  srcset="https://github.com/namanvirk18/timescaledb/raw/main/src/image.png">
     <img alt="Tiger Data logo" width="200">
 </picture>
-
-<h1 style="margin-top: -20px; margin-bottom: 10px; border: none;">Tiger CLI</h1>
 
 <h3>Postgres database management for AI coding agents</h3>
 
