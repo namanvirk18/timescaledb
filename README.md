@@ -5,7 +5,8 @@
 </picture>
 </div>
 
-<div align=center> 
+<div align=center>
+    
 # Tiger CLI
 
 ### Postgres database management for AI coding agents
