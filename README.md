@@ -1,7 +1,6 @@
-<div align=center>
 <picture align=center>
-    <source  srcset="https://github.com/namanvirk18/tiger-data/raw/main/assets/tiger-logo.png">
-    <img alt="Tiger Data logo" width="200">
+    <source  srcset="https://assets.timescale.com/timescale-web/brand/show/horizontal-black.svg">
+    <img alt="Tiger Data logo" >
 </picture>
 </div>
 
