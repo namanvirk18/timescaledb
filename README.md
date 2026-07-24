@@ -4,7 +4,7 @@
     <img alt="Tiger Data logo" width="200">
 </picture>
 
-<h1 style="margin-top: -10px; margin-bottom: 5px;">Tiger CLI</h1>
+<h1 style="margin-top: -20px; margin-bottom: 10px; border: none;">Tiger CLI</h1>
 
 <h3>Postgres database management for AI coding agents</h3>
 
