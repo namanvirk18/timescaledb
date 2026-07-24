@@ -1,7 +1,7 @@
 <div align=center>
 <picture align=center>
     <source  srcset="https://github.com/namanvirk18/timescaledb/raw/main/src/image.png">
-    <img alt="Tiger Data logo" width="320" style="margin-bottom: -25px;">
+    <img alt="Tiger Data logo" width="250" style="margin-bottom: -25px;">
 </picture>
 
 <h3 style="margin-top: -10px;">Postgres database management for AI coding agents</h3>
