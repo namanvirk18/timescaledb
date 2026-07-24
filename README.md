@@ -3,7 +3,6 @@
     <source  srcset="https://github.com/namanvirk18/timescaledb/raw/main/src/image.png">
     <img alt="Tiger Data logo" width="300">
 </picture>
-
 <h3>Postgres database management for AI coding agents</h3>
 
 [![Docs](https://img.shields.io/badge/Read_the_docs-black?style=for-the-badge&logo=readthedocs&logoColor=white)](https://docs.tigerdata.com/)
