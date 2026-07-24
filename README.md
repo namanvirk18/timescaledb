@@ -6,7 +6,7 @@
 </div>
 
 <div align=center> 
-<h2>Tiger CLI</h2>
+<h1>Tiger CLI</h1>
 
 <h3>Postgres database management for AI coding agents</h3>
 
