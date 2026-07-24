@@ -1,9 +1,10 @@
 <div align=center>
 <picture align=center>
     <source  srcset="https://github.com/namanvirk18/timescaledb/raw/main/src/image.png">
-    <img alt="Tiger Data logo" width="300">
+    <img alt="Tiger Data logo" width="200" style="margin-bottom: -15px;">
 </picture>
-<h3>Postgres database management for AI coding agents</h3>
+
+<h3 style="margin-top: -10px;">Postgres database management for AI coding agents</h3>
 
 [![Docs](https://img.shields.io/badge/Read_the_docs-black?style=for-the-badge&logo=readthedocs&logoColor=white)](https://docs.tigerdata.com/)
 [![SLACK](https://img.shields.io/badge/Ask_the_community-black?style=for-the-badge&logo=slack&logoColor=white)](https://timescaledb.slack.com/archives/C4GT3N90X)
