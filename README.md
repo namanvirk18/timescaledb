@@ -6,9 +6,9 @@
 </div>
 
 <div align=center> 
-<h1>Tiger CLI</h1>
+# Tiger CLI
 
-<h3>Postgres database management for AI coding agents</h3>
+### Postgres database management for AI coding agents
 
 [![Docs](https://img.shields.io/badge/Read_the_docs-black?style=for-the-badge&logo=readthedocs&logoColor=white)](https://docs.tigerdata.com/)
 [![SLACK](https://img.shields.io/badge/Ask_the_community-black?style=for-the-badge&logo=slack&logoColor=white)](https://timescaledb.slack.com/archives/C4GT3N90X)
