@@ -16,6 +16,7 @@
 [![Try Tiger Cloud for free](https://img.shields.io/badge/Try_Tiger_Cloud_for_free-black?style=for-the-badge&logo=timescale&logoColor=white)](https://console.cloud.timescale.com/signup)
 
 </div>
+Tiger CLI is the command-line interface for Tiger Cloud. It provides commands for managing and querying database services, as well as an integrated Model Context Protocol (MCP) server for use with AI assistants.
 
 <br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
